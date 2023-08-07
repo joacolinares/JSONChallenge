@@ -1,0 +1,54 @@
+{
+    "title":"Dogs",
+   "image":"https://www.akc.org/wp-content/uploads/2018/05/Three-Australian-Shepherd-puppies-sitting-in-a-field.jpg",
+   "questions":[
+      {
+         "text":"Which dog breed is it?",
+         "image":"https://www.hepper.com/wp-content/uploads/2021/11/labrador_Shutterstock_-Eric-Isselee.jpg",
+         "lifetimeSeconds":10,
+         "options":[
+            {
+               "text":"Labrador"
+            },
+            {
+               "text":"German shepherd"
+            },
+            {
+               "text":"Chihuahua"
+            }
+         ]
+      },
+      {
+         "text":"Which dog breed is it?",
+         "image":"https://www.elcolectivo.com.ar/u/fotografias/m/2022/10/20/f768x1-90599_90726_5050.jpg",
+         "lifetimeSeconds":5,
+         "options":[
+            {
+               "text":"great dane"
+            },
+            {
+               "text":"poodle"
+            },
+            {
+               "text":"Chihuahua"
+            }
+         ]
+      },
+      {
+        "text":"Which dog breed is it?",
+        "image":"https://www.micachorro.net/wp-content/uploads/2019/04/Galgo-ingles-cachorros-y-precio.jpg",
+        "lifetimeSeconds":7,
+        "options":[
+            {
+               "text":"greyhound"
+            },
+            {
+               "text":"Chihuahua"
+            },
+            {
+               "text":"Labrador"
+            }
+         ]
+     }
+   ]
+}
